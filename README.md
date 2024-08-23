@@ -3,6 +3,9 @@
 ## Basis Paper
 
 Trading strategy of a stock index based on the frequency of news releases for listed companies
+
+By Yoshifumi Tahira • Takayuki Mizuno
+
 https://courseworks2.columbia.edu/courses/190553/files/19587975?wrap=1
 
 
